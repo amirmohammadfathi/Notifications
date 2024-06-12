@@ -4,3 +4,4 @@ pymongo==4.7.3
 celery==5.4.0
 redis==5.0.5
 ipython==8.25.0
+python-dotenv==1.0.1
